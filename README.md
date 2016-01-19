@@ -77,3 +77,4 @@ enter: git add .
 Then:  git commit -m "finished"
 Then:  git push
 ```
+Then submit a pull request and tag Ms. Pilgrim (pilgrimmemoirs)
